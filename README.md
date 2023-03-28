@@ -1,7 +1,4 @@
 
-# {{ New Group Name }}
+# Post-Quantum Cryptography (PQC)
 
-This repository represents an administrative repository for the {{ New Group Name }}.  
-It should contain documents to facilitate the group function, e.g. meeting minutes and supporting documents.
-It should not contain code nor specifications.
-
+This repository serves as a central hub for the management and organization of the Post-Quantum Cryptography (PQC) Task Group. It contains essential documents that streamline the group's operations, such as meeting minutes and relevant reference materials. Please note that this repository is not intended for hosting code or specifications.
